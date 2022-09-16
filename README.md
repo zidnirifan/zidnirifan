@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Zidni Rif'an
 
 [![Zidni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidnirifan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -7,5 +7,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zidnirifan&repo=socmed-app-backend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidnirifan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidnirifan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
